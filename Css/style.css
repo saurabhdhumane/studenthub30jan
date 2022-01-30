@@ -1,0 +1,55 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* Navigation Design Start */
+
+header{
+    background-color: mediumspringgreen;
+    padding: 15px 0px;
+}
+
+header, nav, a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+}
+
+section{
+    background-color: whitesmoke;
+    padding: 20px;
+    overflow: auto;
+}
+
+section, h1, p{
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding: 10px;
+}
+
+div p{
+    text-align: justify;
+    padding: 0px 10px;
+    overflow: auto;
+}
+
+aside{
+    float: right;
+    padding:33px  25px;
+    background-color: yellow;   
+}
+
+article{
+    overflow: auto;
+}
+
+footer{
+    color: tomato;
+}
